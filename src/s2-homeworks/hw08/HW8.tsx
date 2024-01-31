@@ -71,7 +71,7 @@ const HW8 = () => {
                             onClick={sortDown}
                             xType={currentSort === 'down' ? '' : 'secondary'}
                         >
-                            Sort down
+                            ХУй
                         </SuperButton>
                         <SuperButton
                             id={'hw8-button-18'}
